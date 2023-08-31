@@ -1,6 +1,6 @@
 <picture>
  <source media="(prefers-color-scheme: light)" srcset="B3_logo_full.png">
- <img alt="b-cubed" src="B3_logo_full.png" width="350">
+ <img alt="b-cubed" src="B3_logo_full.png" width="300">
 </picture>
 
 # B3
